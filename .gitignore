@@ -1,0 +1,8 @@
+# Track only the Vivado source, constraint and simulation files.
+# Everything else - generated output, reports, diagrams - stays local.
+
+/*
+!/.gitignore
+!/CA_LAB6/
+/CA_LAB6/*
+!/CA_LAB6/src/
